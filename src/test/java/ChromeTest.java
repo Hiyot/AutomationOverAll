@@ -3,7 +3,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class ChromeExcess {
+public class ChromeTest {
 
     private static WebDriver driver;
 
